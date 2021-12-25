@@ -1,0 +1,6 @@
+5.1 Codificar un código que reciba un numero de entrada e imprima 1 si es negativo, 0 si es positivo y ademas
+imprima 'a' si al sumarle 1 es divisible por 2, 'b' si es divisible por 3 o 'c' en cualquier otro caso.
+5.2 Codificar un código que imrpima True si una cadena es un palindromo y False sino lo es.
+5.3 Codificar un código que devuelva todos los divisores de un número dado.
+5.4 Codificar un código que imrpima True si un número es primo y False si no lo es.
+5.5 Dada una cadena obtener el número de carácter unicos y las veces que ocurren en dicha cadena.
